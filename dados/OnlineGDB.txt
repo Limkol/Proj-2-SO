@@ -17,3 +17,5 @@ Total: 		3.42
 18:00 com O2 e 130 kb de tamanho de programa
 Time variable: 	wall
 Total: 		1.52
+
+O OnlineGDB tem um limite de 1024KB e portanto nao permite a execucao dos outros arquivos
