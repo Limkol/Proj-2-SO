@@ -1,6 +1,9 @@
-teste 1 as 14:42:
+ wall TOTAL 1: 19.53
+ wall TOTAL 2: 13.23
 
-Time variable                                   usr           sys          wall           GGC
+ teste 1 as 14:42:
+
+ Time variable                                   usr           sys          wall           GGC
  phase setup                        :   0.00 (  0%)   0.01 (  1%)   0.01 (  0%)  1841k (  1%)
  phase parsing                      :   0.39 (  2%)   0.55 ( 28%)   0.97 (  5%)    18M (  7%)
  phase opt and generate             :  16.85 ( 98%)   1.39 ( 71%)  18.55 ( 95%)   244M ( 92%)
