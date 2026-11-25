@@ -1,0 +1,32 @@
+==================================================
+Início: 2026-11-25 21:45:04
+Comando usado: medir 131 O0
+Compilação: gcc -O0 compile_test_131KB.c -o <temporario> (limite 300s por rodada)
+GCC: gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+Memória total: 7.8Gi
+Núcleos: 2
+Temperatura: indisponível
+--------------------------------------------------
+[21:45:08] Rodada 1: real=3.92s | pico de memória=45.9 MB
+[21:45:09] Rodada 2: real=0.45s | pico de memória=46.0 MB
+[21:45:09] Rodada 3: real=0.45s | pico de memória=46.0 MB
+[21:45:10] Rodada 4: real=0.43s | pico de memória=46.1 MB
+[21:45:10] Rodada 5: real=0.44s | pico de memória=46.1 MB
+Média do tempo real (5 rodadas): 1.138s
+
+==================================================
+Início: 2026-11-25 22:09:19
+Comando usado: medir 131 O0
+Compilação: gcc -O0 compile_test_131KB.c -o <temporario> (limite 300s por rodada)
+GCC: gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+Memória total: 7.8Gi
+Núcleos: 2
+Temperatura: indisponível
+--------------------------------------------------
+[22:09:20] Rodada 1: real=0.41s | pico de memória=46.1 MB
+[22:09:20] Rodada 2: real=0.42s | pico de memória=46.1 MB
+[22:09:21] Rodada 3: real=0.43s | pico de memória=46.1 MB
+[22:09:21] Rodada 4: real=0.40s | pico de memória=46.2 MB
+[22:09:21] Rodada 5: real=0.44s | pico de memória=46.0 MB
+Média do tempo real (5 rodadas): 0.420s
+

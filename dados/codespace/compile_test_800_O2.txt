@@ -1,0 +1,16 @@
+==================================================
+Início: 2026-11-25 21:49:41
+Comando usado: medir 800 O2
+Compilação: gcc -O2 compile_test_800KB.c -o <temporario> (limite 300s por rodada)
+GCC: gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+Memória total: 7.8Gi
+Núcleos: 2
+Temperatura: indisponível
+--------------------------------------------------
+[21:49:52] Rodada 1: real=11.18s | pico de memória=345.8 MB
+[21:50:03] Rodada 2: real=11.13s | pico de memória=345.7 MB
+[21:50:14] Rodada 3: real=11.12s | pico de memória=345.6 MB
+[21:50:26] Rodada 4: real=11.57s | pico de memória=345.7 MB
+[21:50:37] Rodada 5: real=10.95s | pico de memória=345.6 MB
+Média do tempo real (5 rodadas): 11.190s
+

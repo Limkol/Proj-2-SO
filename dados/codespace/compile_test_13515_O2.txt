@@ -1,0 +1,12 @@
+==================================================
+Início: 2026-11-25 21:58:11
+Comando usado: medir 13515 O2
+Compilação: gcc -O2 compile_test_13515KB.c -o <temporario> (limite 300s por rodada)
+GCC: gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+Memória total: 7.8Gi
+Núcleos: 2
+Temperatura: indisponível
+--------------------------------------------------
+[22:03:11] Rodada 1: TIMEOUT (> 300s) - execução interrompida
+Média não calculada (execução interrompida)
+
