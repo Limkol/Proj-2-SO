@@ -1,0 +1,54 @@
+===== DATA =====
+Wed Nov 25 23:39:13 UTC 2026
+
+===== SISTEMA OPERACIONAL =====
+PRETTY_NAME="Ubuntu 24.04.5 LTS"
+VERSION="24.04.5 LTS (Noble Numbat)"
+Linux 6.8.0-1070-azure x86_64 GNU/Linux
+
+===== CPU =====
+nproc: 2
+Architecture:                            x86_64
+CPU(s):                                  2
+Model name:                              AMD EPYC 7763 64-Core Processor
+Thread(s) per core:                      2
+Core(s) per socket:                      1
+Socket(s):                               1
+L2 cache:                                512 KiB (1 instance)
+L3 cache:                                32 MiB (1 instance)
+
+===== MEMÓRIA =====
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       2.0Gi       142Mi        67Mi       6.0Gi       5.8Gi
+Swap:             0B          0B          0B
+MemTotal:        8132868 kB
+MemAvailable:    6042368 kB
+Cached:          4586340 kB
+SwapTotal:             0 kB
+
+===== LIMITES DE CGROUP (o que o contêiner pode usar) =====
+cgroup v2
+memory.max:  max
+memory.high: max
+cpu.max:     max 100000
+
+===== DISCO =====
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/loop4       32G   12G   19G  38% /workspaces
+/dev/sdb1        44G  4.4G   38G  11% /tmp
+Sistema de arquivos da pasta atual: ext4
+
+===== COMPILADOR =====
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+x86_64-linux-gnu
+GNU ld (GNU Binutils for Ubuntu) 2.42
+GNU assembler (GNU Binutils for Ubuntu) 2.42
+
+===== CARGA ATUAL DA MÁQUINA =====
+ 23:39:13 up  3:25,  0 user,  load average: 0.07, 0.12, 0.20
+    PID COMMAND         %CPU %MEM
+   1766 MainThread       1.5  4.6
+   1742 MainThread       0.1  2.2
+   2190 MainThread       0.0  0.9
+   1792 MainThread       0.0  1.9
+    354 containerd       0.0  0.6
